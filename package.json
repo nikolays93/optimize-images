@@ -1,0 +1,26 @@
+{
+	"name": "Optimizeimages",
+	"description": "",
+	"author": "Nikolay Sukhikh",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"license": "MIT",
+	"scripts": {
+		"install": "gulp"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-debug": "^4.0.0",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-newer": "^1.4.0",
+		"gulp-rename": "^2.0.0",
+		"imagemin-giflossy": "^5.1.10",
+		"imagemin-jpeg-recompress": "^6.0.0",
+		"imagemin-mozjpeg": "^8.0.0",
+		"imagemin-pngquant": "^8.0.0",
+		"imagemin-svgo": "^7.1.0",
+		"imagemin-zopfli": "^6.0.0"
+	}
+}
